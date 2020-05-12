@@ -1,7 +1,7 @@
 # 2D spiking network model for working memory
 - This model has 2D neurons, which can represent 2D features by persistent activity in working memory.
 
-- The model needs some fine-tune on parameters to produce binding error. I am tired of tuning parameters and just give up.
+- The model needs some fine-tuning on parameters to produce binding error. I am tired of tuning parameters and just give up.
 
 - Thank Da-Hui Wang@BNU for instruction, thank Mengya Zhang@BNU for technical support.
 
